@@ -1,0 +1,22 @@
+{
+  "name": "yoga-api",
+  "version": "1.0.0",
+  "description": "yoga positions api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efeapplications/yoga-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efeapplications/yoga-api/issues"
+  },
+  "homepage": "https://github.com/efeapplications/yoga-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
